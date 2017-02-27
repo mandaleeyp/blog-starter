@@ -1,11 +1,11 @@
 ---
 name: Saamjo
 app: 
-  name: Whap Chat
-  url: http://whapchat.com
-  twitter_username: whapchat
+  name: TBD
+  url: http://TBD.com
+  twitter_username: TBD
   repo: http://git.yale.edu/foo
-  tagline: Chat metrics done right
+  tagline: TBD
   value: |
     For the busy, principled people
     who struggle to find the time and opportunity for community service
