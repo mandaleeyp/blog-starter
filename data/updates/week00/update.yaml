@@ -1,5 +1,5 @@
 ---
-title: A week of joys and opportunity
+title: Starting Up Our Start-Up
 summary: |
   Who are our customers? What is their pain? What kind of magical software will solve their pain?
 news:
@@ -72,7 +72,7 @@ How will software function?
 
 Describe the application architecture and technical choices needed to build that software. 
 > How is it divided between client and server? 
-  * NO CLUE
+  * JavaScript for both client and server side
   
 > How do they communicate? 
   * NO CLUE
@@ -81,7 +81,8 @@ Describe the application architecture and technical choices needed to build that
   * SQL
   
 > How will you manage, test, and deploy your code?
-  * NO CLUE 
+  * We will use a shared repository on cloud 9 to manage and collaborate on the code. 
+  * We will deploy our code using Heroku
   
 > What technology stack are you going to use?
   * Git hub is god, Git hub is life
